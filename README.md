@@ -48,3 +48,7 @@ Then, wherever I wanted an icon to appear, I added the appropriate HTML tag. For
 Clone the repository to your local machine.
 Navigate to the Project Directory.
 Open the Project in a Code Editor.
+
+
+![screenshot login-form](https://github.com/arielmvillegas/login-form/assets/98924154/27240e21-60bb-4ae3-8c5d-0f8208cbc432)
+
