@@ -19,6 +19,7 @@ and animated elements, resulting in a modern and visually appealing user interfa
 📝 Learned:
 🧠 
 One lesson I gained was incorporating the gradient-animation feature into my paragraph header. I acheieved this by first defining keyframes as such:
+
 @keyframes gradient-animation{
     0%{
         background-position: 0% 50%;
