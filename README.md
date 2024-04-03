@@ -34,11 +34,6 @@ One lesson I gained was incorporating the gradient-animation feature into my par
     }
 Then, I ensured to include the command 'background-image: linear-gradient'. Through this process, I found enjoyment in exploring the various aspects of CSS color values.
 
-Embedding icons into my website turned out to be simpler than I anticipated! I learned that to access icons, I first needed to include the following link in my index.html through 'fontawesome.com':
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-Then, wherever I wanted an icon to appear, I added the appropriate HTML tag. For example, to place heart icons alongside my header I did:
-<h1><i class="fa-regular fa-heart"></i>Your Cozy Corner <i class="fa-regular fa-heart"></i></h1>
-
 
 💡Improvement:
 - Enable functionality for the login, forgot password, and register buttons when clicked on.
